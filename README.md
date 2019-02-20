@@ -10,7 +10,7 @@ Latihan 4 Modul 1
 Menampilkan nilai variabel
 ![alt text](https://github.com/KadekJ/PHP_1_dan_2/blob/master/menampilkan%20nilai%20variabel.png)
 Latihan 5a Modul 1
-![alt text](https://github.com/KadekJ/PHP_1_dan_2/blob/master/latihan5a.php)
+![alt text](https://github.com/KadekJ/PHP_1_dan_2/blob/master/latihan%205a.png)
 Latihan variabel hasil Modul 1
 ![alt text](https://github.com/KadekJ/PHP_1_dan_2/blob/master/variabel%20hasil.png)
 
